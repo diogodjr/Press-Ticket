@@ -20,7 +20,7 @@ import { i18n } from "../../translate/i18n";
 
 import { AuthContext } from "../../context/Auth/AuthContext";
 import { system } from "../../config.json";
-import logo from '../../assets/logo.png';
+import logo from '../../assets/logoTranspac.png';
 
 const Copyright = () => {
   return (

@@ -30,7 +30,7 @@ import api from "../services/api";
 import toastError from "../errors/toastError";
 import { system } from "../config.json";
 import { systemVersion } from "../../package.json";
-import logodash from "../assets/logo-dash.png";
+import logodash from "../assets/logoTranspacDash.png";
 
 const drawerWidth = 240;
 
